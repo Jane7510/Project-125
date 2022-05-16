@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Patrick+Hand&display=swap');
+
+body{
+    text-align: center;
+    background: rgb(255,192,217);
+background: linear-gradient(90deg, rgba(255,192,217,1) 26%, rgba(223,202,255,1) 66%);
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    margin-right: 100px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-left: 300px;
+    margin-bottom: 600px;
+
+}
